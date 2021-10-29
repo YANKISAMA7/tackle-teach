@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
+
+.search{
+    text-decoration: none;
+}
+
+.text{
+   margin-right: 700px;
+   font-size: 50px;
+   margin-top: 50px;
+   
+}
+
+.text1{
+    line-height: 4rem;
+    font-weight: normal;
+    font-size: 30px;
+    margin-top: 100px;
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+
+.computer-img{
+    width: 25%;
+    float: right;
+    margin-right: 350px;
+}
+
+.computer-discription{
+    clear: left;
+    line-height: 3;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.icon{
+    color: #FFB037;
+}
+
+.icon:hover{
+    color: burlywood;
+}
+
+.method{
+    background-color: #2F5D62;
+}
+
+.card-link{
+    text-decoration: none;
+}    
+
+.card-title{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 800;
+    font-size: em;
+}
+
+.card-text{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+
+.contant3{
+    background-color: #FFF8D9;
+}
+
+.footer1{
+    margin-left: 10px;
+    margin-right: 10%;
+}
+
+.footertext{
+    margin-left: 20%;
+}
